@@ -64,6 +64,7 @@ namespace Accounting.DataLayer.Services
             {
                 return false;
             }
+
         }
 
         public bool DeleteCustomer(int customerId)
